@@ -6,7 +6,7 @@ import {BsServer} from "react-icons/bs";
 
 const CardItems = () => {
   return (
-    <div class='grid grid-rows-4 gap-16'>
+    <div class='grid grid-rows-4 gap-20'>
       <div class='grid grid-cols-7'>
         <div class=''>
           <RiMoneyDollarCircleLine size={25}/>

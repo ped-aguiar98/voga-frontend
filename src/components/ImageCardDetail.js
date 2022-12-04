@@ -48,7 +48,7 @@ const ImageCardDetail = () => {
             <div class='justify-self-start'>
               <CardItems/>
             </div>
-            <div class='justify-self-end px-12'>
+            <div class='justify-self-end px-12 pb-3'>
               <Graph/>
             </div>
           </div>
