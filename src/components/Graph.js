@@ -2,7 +2,7 @@ import React from 'react'
 
 const Graph = () => {
   return (
-    <div class='pt-4'>
+    <div class='pt-2'>
       <div class='rounded-full w-56 h-56 bg-white flex justify-center items-center text-white text-2xl font-bold'>
         <div class='rounded-full w-52 h-52 bg-cyan-600 flex justify-center items-center text-white text-2xl font-bold'>
           <div class='rounded-full w-44 h-44 bg-white flex justify-center items-center text-cyan-600 text-3xl font-bold'>

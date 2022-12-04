@@ -39,7 +39,7 @@ const ImageCardDetail = () => {
               <h1 class=' text-start text-2xl font-bold '>Empresa Ficticia</h1>
             </div>
             <div class='justify-self-end px-9'>
-              <button class="mx-2 my-1 md:my-0 px-20 py-2 font-semibold text-xl rounded text-white bg-amber-500 hover:bg-amber-600 duration-500 inline-block" onClick={clicked}>
+              <button class="mx-3 my-1 md:my-0 px-20 py-2 font-semibold text-xl rounded text-white bg-amber-500 hover:bg-amber-600 duration-500 inline-block" onClick={clicked}>
                 Investir
               </button>
             </div>
