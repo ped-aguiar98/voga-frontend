@@ -29,7 +29,7 @@ const handleCancelClick = () => {
                   <p class='text-left pt-16 pb-6'>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                   </p>
-                  <input class="shadow appearance-none border rounded w-full py-3 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="username" type="number" placeholder="R$"></input>
+                  <input class="shadow appearance-none border rounded w-full py-3 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="username" type="number" placeholder="R$ 0,00"></input>
                   <div className="form-control">
                   <div class='pt-7'>
                     <label className="label cursor-pointer">
